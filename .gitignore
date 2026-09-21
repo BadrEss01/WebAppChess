@@ -24,3 +24,9 @@ yarn-debug.log*
 yarn-error.log*
 /env
 .env
+
+# Python development artifacts
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
