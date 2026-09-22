@@ -1,4 +1,8 @@
-# Chess web application — coursework
+# Chess web application
+
+> **Coursework** · Secondary academic project; unfinished game
+>
+> [Selected projects](https://github.com/BadrEss01/BadrEss#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
 
 A database and web-services project with a React frontend and Django backend. The original project describes chess openings and an unfinished game implementation.
 
