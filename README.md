@@ -2,7 +2,7 @@
 
 > **Coursework** · Secondary academic project; unfinished game
 >
-> [Selected projects](https://github.com/BadrEss01/BadrEss#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
+> [Selected projects](https://github.com/BadrEss01/BadrEss01#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss01/blob/main/COURSEWORK.md)
 
 A database and web-services project with a React frontend and Django backend. The original project describes chess openings and an unfinished game implementation.
 
@@ -43,4 +43,4 @@ Inspect frontend API URLs and backend settings before running. Development setup
 
 The chess game is incomplete. The original Heroku URL is historical and is not advertised as a working demo. Tracked Python bytecode was removed from the current tree; source, migrations, documents and the existing database were preserved. The database should be reviewed before reuse or publication of a new deployment.
 
-[Portfolio](https://github.com/BadrEss01/BadrEss) · [Coursework index](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
+[Portfolio](https://github.com/BadrEss01/BadrEss01) · [Coursework index](https://github.com/BadrEss01/BadrEss01/blob/main/COURSEWORK.md)
